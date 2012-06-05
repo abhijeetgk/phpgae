@@ -1,0 +1,1 @@
+<?php  echo "Hello World in PHP file. Current timestamp ". date("Ymdhis");?>
